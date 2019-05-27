@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{225:function(o){o.exports={data:{post:{title:"Lemon",date:"1970",content:"\n",categories:[],projectBgColor:"",projectFgColor:""}}}}}]);

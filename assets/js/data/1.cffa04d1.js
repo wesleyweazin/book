@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{216:function(e){e.exports={data:{post:{title:"測試用的",author:"Nichlas W. Andersen",date:"Invalid date",timeToRead:1,content:"<p>大家好，我是rei</p>\n"}}}}}]);

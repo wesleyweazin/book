@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{223:function(o){o.exports={data:{post:{title:"識別證",date:"1970",content:"<p>測試測試測試</p>\n",categories:[],projectBgColor:"",projectFgColor:""}}}}}]);
